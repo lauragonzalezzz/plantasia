@@ -14,3 +14,14 @@
 * For Mac: `. venv/bin/activate`
 * For Windows: `venv\Scripts\activate`
 9. Install Flask `pip install Flask`
+10. Run project:
+* For Mac: 
+	
+    `export FLASK_APP=app.py`
+	
+    `flask run`
+* For Windows:
+	
+    `set FLASK_APP=app.py`
+	
+    `flask run`

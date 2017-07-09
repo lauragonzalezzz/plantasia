@@ -1,0 +1,31 @@
+body {
+	background: url('/static/images/Pot.jpeg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+#titleIndex {
+	font-family: 'Allura', cursive;
+	font-size: 10em;
+	color: mediumspringgreen;
+	opacity: 0.7;
+	position: fixed;
+	top: 50px;
+	right: 200px;
+	margin: 0px;
+}
+
+#subtitleIndex {
+	font-family: arial;
+	position: fixed;
+	bottom: 150px;
+	right: 125px;
+	color: white;
+	opacity: 0.6;
+	border: 1px solid darkslategray;
+	width: 300px;
+	line-height: 1.5;
+	padding: 10px;
+}
